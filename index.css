@@ -2,3 +2,15 @@
     color : orange;
     text-decoration : none;    
 }
+
+main {
+    max-width: 600;
+    margin-top: 24;
+    margin-bottom: 24;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
